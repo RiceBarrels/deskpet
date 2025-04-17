@@ -1,0 +1,32 @@
+[
+    {
+        "state":"frontIdle",
+        "img":"/sleepyIdle.gif",
+        "className":""
+    },
+    {
+        "state":"movingLeft",
+        "img":"/walk.gif",
+        "className":""
+    },
+    {
+        "state":"movingRight",
+        "img":"/walk.gif",
+        "className":"rotate-y-180"
+    },
+    {
+        "state":"dragging",
+        "img":"/sleepyIdle.gif",
+        "className":"idle"
+    },
+    {
+        "state":"hideOnLeft",
+        "img":"/sleepyIdle.gif",
+        "className":"idle rotate-45"
+    },
+    {
+        "state":"hideOnRight",
+        "img":"/sleepyIdle.gif",
+        "className":"idle rotate-[-45deg]"
+    }
+]
